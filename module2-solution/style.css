@@ -5,6 +5,7 @@
 }
 
 body{
+	font-family: Arial, Verdana, sans-serif;
 
 }
 
@@ -12,6 +13,7 @@ h1 {
 	position: relative;
 	text-align: center;
 	margin: 15px 0;
+	font-size: 1.75em;
 }
 
 div.row {
@@ -42,6 +44,7 @@ h2.menuName {
    border:1px solid black;
    margin: 0px;
    float:right;
+   font-size: 1.25em;
 }
 
 #chicken {
