@@ -1,0 +1,51 @@
+section.section_size{
+	height: 1200px;
+	margin-right: 20px;
+	margin-left: 20px;
+
+}
+
+
+.navbar-brand{
+	margin-left:1rem;
+	padding:1rem;
+}
+
+header .container-fluid{
+	padding-right: 0px;
+	padding-left:0px;
+}
+
+button.navbar-toggler.d-block.d-sm-none.collapsed{
+	margin: 1rem 1rem 1rem 1rem;
+}
+
+button.navbar-toggler.d-block.d-sm-none{
+	margin-right:1rem;
+}
+
+nav.nav.navbar.navbar-light.bg-secondary{
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+}
+
+
+
+
+
+h1.col-md-12.col-sm-12.h1-title{
+	margin-top: 30px;
+	margin-right: 20px;
+	margin-left: 20px;
+	margin-bottom: 30px;
+}
+
+
+.p_style{
+	margin-left: 1rem;
+	margin-right: 1rem;
+}
+
+
+
